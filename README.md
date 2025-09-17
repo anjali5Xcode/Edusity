@@ -107,5 +107,3 @@ Steps:
 **Anjali**
 For any inquiries or feedback, feel free to connect here:
 [GitHub Profile](https://github.com/anjali5Xcode)
-Chaho to mai aapke liye **step-by-step bata du ki VS Code se ye README kaise update karna hai**?
-```
