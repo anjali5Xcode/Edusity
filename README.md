@@ -6,7 +6,7 @@
 The platform is designed to provide an intuitive and seamless experience for both students and educators, focusing on clean design and responsive performance.
 
 ## Demo
-
+[Live Demo](https://edusity-pro.vercel.app/)
 
 
 ## Features
