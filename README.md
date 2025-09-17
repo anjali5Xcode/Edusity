@@ -7,7 +7,7 @@ The platform is designed to provide an intuitive and seamless experience for bot
 
 ## Demo
 
-[Live Demo](https://edusity-inky-theta.vercel.app/)
+
 
 ## Features
 
